@@ -38,14 +38,7 @@
 <a href="https://github.com/Ki77y666">
     <img src="https://github-stats-alpha.vercel.app/api?username=Ki77y666&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
 </p>
-
-* 🏢 Co-owner of [KeyHub](https://key-hub.eu/). 
-
-* 🖥️ Developer of 3 Discord Bots [Meow Bot#5074](https://top.gg/bot/988041477722603560) | Fluffy ~Whore~ Bot#1138 | [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king).
-
-* 🛡️ Administrator / Moderator of multiple Discord Servers.
 
 ### 🛠️ Open-Source Projects
 <table>
@@ -57,6 +50,31 @@
 | [Basic-Discord-Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JS](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript)|
 
 </td></tr> </table>
+
+<table>
+<tr><td>
+
+|explore.exe          ⎯⠀❐⠀⤬|
+|--|
+|⌊📂 : Desktop|
+|⠀ ⌊📂 : Website|
+|⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/)|
+|⠀⠀⌊📂 : Bots|
+|⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://top.gg/bot/988041477722603560)|
+|⠀⠀ ⠀⌊📁 : Fluffy ~Whore~ Bot#1138 (Private Bot)|
+|⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king)|
+|⠀⠀⌊📂 : Discord Servers|
+|⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ)|
+|⠀⠀ ⠀⌊📁 : Fluffy Test Labs (Private Server)|
+|⠀⠀ ⠀⌊📁 : Bot Testing & Development (Private Server)|
+|⠀⠀ ⠀⌊📁 : [ₓⅹ WONKY Community ⅹₓ](https://discord.gg/hWj8atq8jH)|
+|⠀⠀ ⠀⌊📁 : [Astralverse](https://discord.gg/NXNfAdYjS3)|
+|⠀⠀ ⠀⌊📁 : [Ancient Dragon Club](https://discord.gg/2d5CBAqJtj)|
+|⠀⠀ ⠀⌊📁 : [DRɅCONIɅNS](https://discord.gg/ySxE3gQxWe)|
+|⠀⠀ ⠀⌊📁 : [InBread Catz](https://discord.gg/HGsDJK5WCR)|
+|⠀⠀ ⠀⌊📁 : [Billionaire Ducks Club](https://discord.gg/RDJctDpbzp)|
+</td></tr>
+</table>
 
 <details>
 <summary>📈 Stats</summary>
