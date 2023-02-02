@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Reddit-Ki77y666-purple?style=flat-square&logo=reddit&logoColor=white">
 </a>
 <a href="mailto:nosman666@live.co.uk">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="http://live.xbox.com/Profile?Gamertag=Ki77y666">
     <img src="https://img.shields.io/badge/Xbox-Ki77y666-purple?style=flat-square&logo=xbox&logoColor=white">
