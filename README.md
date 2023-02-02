@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Discord-Ki77y666-purple?style=flat-square&logo=discord&logoColor=white">
 </a>  
 <a href="https://steamcommunity.com/id/Ki77y666/">
-    <img src="https://img.shields.io/badge/Stream-Ki77y666-blue?style=flat-square&logo=steam&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-Ki77y666-blue?style=flat-square&logo=steam&logoColor=white">
 </a>  
 <a href="https://twitter.com/Ki77y666">
     <img src="https://img.shields.io/badge/Twitter-Ki77y666-purple?style=flat-square&logo=Twitter&logoColor=white">
