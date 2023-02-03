@@ -64,15 +64,15 @@
 |⠀⠀ ⠀⌊📁 : Fluffy Wh♥re Bot#1138 (Private Bot)|
 |⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king)|
 |⠀⠀⌊📂 : Discord Servers|
-|⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ)|
-|⠀⠀ ⠀⌊📁 : Fluffy Test Labs (Private Server)|
+|⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ) (Gaming community)|
+|⠀⠀ ⠀⌊📁 : Fluffy Test Labs (Private Server) - Home of Meow & Fluffy Bots|
 |⠀⠀ ⠀⌊📁 : Bot Testing & Development (Private Server)|
-|⠀⠀ ⠀⌊📁 : [ₓⅹ WONKY Community ⅹₓ](https://discord.gg/hWj8atq8jH)|
-|⠀⠀ ⠀⌊📁 : [Astralverse](https://discord.gg/NXNfAdYjS3)|
-|⠀⠀ ⠀⌊📁 : [Ancient Dragon Club](https://discord.gg/2d5CBAqJtj)|
-|⠀⠀ ⠀⌊📁 : [DRɅCONIɅNS](https://discord.gg/ySxE3gQxWe)|
-|⠀⠀ ⠀⌊📁 : [InBread Catz](https://discord.gg/HGsDJK5WCR)|
-|⠀⠀ ⠀⌊📁 : [Billionaire Ducks Club](https://discord.gg/RDJctDpbzp)|
+|⠀⠀ ⠀⌊📁 : [ₓⅹ WONKY Community ⅹₓ](https://discord.gg/hWj8atq8jH) (NFT community)|
+|⠀⠀ ⠀⌊📁 : [Astralverse](https://discord.gg/NXNfAdYjS3) (NFT community)|
+|⠀⠀ ⠀⌊📁 : [Ancient Dragon Club](https://discord.gg/2d5CBAqJtj) (NFT community)|
+|⠀⠀ ⠀⌊📁 : [DRɅCONIɅNS](https://discord.gg/ySxE3gQxWe) (NFT community) - Home of Hand Of The King#1856|
+|⠀⠀ ⠀⌊📁 : [InBread Catz](https://discord.gg/HGsDJK5WCR) (NFT community)|
+|⠀⠀ ⠀⌊📁 : [Billionaire Ducks Club](https://discord.gg/RDJctDpbzp) (NFT community)|
 </td></tr>
 </table>
 
