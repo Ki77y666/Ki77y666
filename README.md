@@ -61,7 +61,7 @@
 |⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/)|
 |⠀⠀⌊📂 : Bots|
 |⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://top.gg/bot/988041477722603560)|
-|⠀⠀ ⠀⌊📁 : Fluffy ~Whore~ Bot#1138 (Private Bot)|
+|⠀⠀ ⠀⌊📁 : Fluffy Wh♥re Bot#1138 (Private Bot)|
 |⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king)|
 |⠀⠀⌊📂 : Discord Servers|
 |⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ)|
