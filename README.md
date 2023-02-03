@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Ki77y666">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&pause=10&color=4C00F7&center=true&multiline=true&width=1000&height=200&lines=Ki77y666;The+fluffball+of+the+internet.;=^_^=;-+KeyHub+co-owner;-+Developer+of+3+Discord+Bots;-+Admin+%2F+Moderator+of+multiple+Discord+Servers;+;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&pause=10&color=4C00F7&center=true&multiline=true&width=1000&height=200&lines=Ki77y666;Yes+i'm+a+fluffball.+Deal+with+it.;=^_^=;-+KeyHub+co-owner;-+Developer+of+3+Discord+Bots;-+Admin+%2F+Moderator+of+multiple+Discord+Servers;+;" alt="Typing SVG" />
 </a>
 <br/>
 
