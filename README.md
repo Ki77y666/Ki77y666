@@ -48,6 +48,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Basic-Discord-Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JS](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript)|
+| [KeyHub-Site-v2.0](https://github.com/Ki77y666/KeyHub-Site-v2.0) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/KeyHub-Site-v2.0?style=flat-square&labelColor=black"/> | ![JS](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript)|
 
 </td></tr> </table>
 
