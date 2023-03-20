@@ -60,13 +60,14 @@
 |⌊📂 : Desktop|
 |⠀ ⌊📂 : Website|
 |⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/)|
+|⠀⠀ ⠀⌊📁 : [KeyHub v2.0](https://ki77y666.github.io/KeyHub-Site-v2.0/)|
 |⠀⠀⌊📂 : Bots|
 |⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://top.gg/bot/988041477722603560)|
 |⠀⠀ ⠀⌊📁 : Fluffy Wh♥re Bot#1138 (Private Bot)|
 |⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king)|
 |⠀⠀⌊📂 : Discord Servers|
 |⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ) (Gaming community)|
-|⠀⠀ ⠀⌊📁 : Fluffy Test Labs (Private Server) - Home of Meow & Fluffy Bots|
+|⠀⠀ ⠀⌊📁 : [Fluffy Test Labs](https://discord.gg/92mEjAk7ZE) (Discord Bot support server)|
 |⠀⠀ ⠀⌊📁 : Bot Testing & Development (Private Server)|
 |⠀⠀ ⠀⌊📁 : [ₓⅹ WONKY Community ⅹₓ](https://discord.gg/hWj8atq8jH) (NFT community)|
 |⠀⠀ ⠀⌊📁 : [Astralverse](https://discord.gg/NXNfAdYjS3) (NFT community)|
