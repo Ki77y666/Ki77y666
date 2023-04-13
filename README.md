@@ -60,8 +60,8 @@
 | -- | -- |
 |⌊📂 : Desktop | |
 |⠀ ⌊📂 : Website | |
-|⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/) | |
-|⠀⠀ ⠀⌊📁 : [KeyHub v2.0](https://ki77y666.github.io/KeyHub-Site-v2.0/) | |
+|⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/) | Promotional Steam key giveaway site |
+|⠀⠀ ⠀⌊📁 : [KeyHub v2.0](https://ki77y666.github.io/KeyHub-Site-v2.0/) | New site design for the relaunch |
 |⠀⠀⌊📂 : Bots | |
 |⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://top.gg/bot/988041477722603560) | A cute multi-server multi-function compatible Discord Bot |
 |⠀⠀ ⠀⌊📁 : Fluffy Wh♥re Bot#1138 | A private Discord Bot |
