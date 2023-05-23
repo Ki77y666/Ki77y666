@@ -79,7 +79,7 @@
 |⠀⠀⌊📂 : Recommended Services | |
 |⠀⠀ ⠀⌊📁 : Cake DeFi 🧁 [Referral Link 1](http://lyksoomu.com/27088791/cake-defi) 🧁 or 🧁 [Referral Link 2](https://link-target.net/566060/cake-defi) 🧁 | Trusted crypto trading platform with ways to earn crypto |
 |⠀⠀ ⠀⌊📁 : Coinbase 💰 [Referral Link 1](http://lyksoomu.com/27088791/coinbase) 💰 or 💰 [Referral Link 2](https://direct-link.net/566060/coinbase) 💰 | Trusted crypto trading platform with ways to earn crypto |
-|⠀⠀ ⠀⌊📁 : FaucetPay 🚰 [Referral Link 1](http://lyksoomu.com/27088791/fluid-nodes) 🚰 or 🚰 [Referral Link 2](https://link-hub.net/566060/fluidnodes) 🚰 | Earn crypto from faucets, simple surveys, paid to click tasks & more |
+|⠀⠀ ⠀⌊📁 : FaucetPay 🚰 [Referral Link](https://faucetpay.io/?r=4481668) 🚰 | Earn crypto from faucets, simple surveys, paid to click tasks & more |
 |⠀⠀ ⠀⌊📁 : Honeygain 🍯 [Referral Link 1](http://lyksoomu.com/27088791/honeygain) 🍯 or 🍯 [Referral Link 2](https://link-center.net/566060/honeygain) 🍯 | PC Software - Passive crypto earning program |
 |⠀⠀ ⠀⌊📁 : Linkvertise 💰 [Referral Link](https://publisher.linkvertise.com/ac/566060) 💰 | Get paid for the URLs that you share |
 |⠀⠀ ⠀⌊📁 : NiceHash ⛏ [Referral Link 1](http://lyksoomu.com/27088791/nicehash) ⛏ or ⛏ [Referral Link 2](https://link-target.net/566060/nicehash) ⛏ | Trusted crypto mining software |
