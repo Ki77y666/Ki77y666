@@ -64,7 +64,7 @@
 |⠀⠀ ⠀⌊📁 : [KeyHub v2.0](https://ki77y666.github.io/KeyHub-Site-v2.0/) | New site design for the relaunch |
 |⠀⠀⌊📂 : Bots | |
 |⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://top.gg/bot/988041477722603560) | A cute multi-server multi-function compatible Discord Bot |
-|⠀⠀ ⠀⌊📁 : Fluffy Wh♥re Bot#1138 | A private Discord Bot |
+|⠀⠀ ⠀⌊📁 : Fluffy Neko Bot#1138 | A private Discord Bot |
 |⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king) |  A custom programed Discord Bot for the DRɅCONIɅNS Discord Server |
 |⠀⠀⌊📂 : Discord Servers | |
 |⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ) | Gaming community |
