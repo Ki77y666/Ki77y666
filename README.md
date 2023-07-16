@@ -80,15 +80,24 @@
 |⠀⠀ ⠀⌊📁 : [InBread Catz](https://discord.gg/HGsDJK5WCR) | NFT community |
 |⠀⠀ ⠀⌊📁 : [Billionaire Ducks Club](https://discord.gg/RDJctDpbzp) | NFT community |
 |⠀⠀⌊📂 : Recommended Services | |
-|⠀⠀ ⠀⌊📁 : Cake DeFi 🧁 [Referral Link 1](http://lyksoomu.com/27088791/cake-defi) 🧁 or 🧁 [Referral Link 2](https://link-target.net/566060/cake-defi) 🧁 | Trusted crypto trading platform with ways to earn crypto |
-|⠀⠀ ⠀⌊📁 : Coinbase 💰 [Referral Link 1](http://lyksoomu.com/27088791/coinbase) 💰 or 💰 [Referral Link 2](https://direct-link.net/566060/coinbase) 💰 | Trusted crypto trading platform with ways to earn crypto |
-|⠀⠀ ⠀⌊📁 : FaucetPay 🚰 [Referral Link](https://faucetpay.io/?r=4481668) 🚰 | Earn crypto from faucets, simple surveys, paid to click tasks & more |
-|⠀⠀ ⠀⌊📁 : Honeygain 🍯 [Referral Link 1](http://lyksoomu.com/27088791/honeygain) 🍯 or 🍯 [Referral Link 2](https://link-center.net/566060/honeygain) 🍯 | PC Software - Passive crypto earning program |
-|⠀⠀ ⠀⌊📁 : Linkvertise 💰 [Referral Link](https://publisher.linkvertise.com/ac/566060) 💰 | Get paid for the URLs that you share |
-|⠀⠀ ⠀⌊📁 : NiceHash ⛏ [Referral Link 1](http://lyksoomu.com/27088791/nicehash) ⛏ or ⛏ [Referral Link 2](https://link-target.net/566060/nicehash) ⛏ | Trusted crypto mining software |
-|⠀⠀ ⠀⌊📁 : Slice 🔗 [Referral Link 1](http://lyksoomu.com/27088791/slice) 🔗 or 🔗 [Referral Link 2](https://link-target.net/566060/slice) 🔗 | Web browser add-on - Passive crypto earning program |
-|⠀⠀ ⠀⌊📁 : N!vq's Game Service 🔗 [Referral Link 1](http://lyksoomu.com/27088791/nivq-game-service) 🔗 or 🔗 [Referral Link 2](https://link-hub.net/566060/nivq-game-service) 🔗 | Buy Steam Game keys using TF2 keys or CS:GO keys or Steam gems or more |
-|⠀⠀ ⠀⌊📁 : Windscribe 🔗 [Referral Link 1](http://lyksoomu.com/27088791/windscribe) or [Referral Link 2](https://link-hub.net/566060/windscribe) 🔗 | Trustwrothy FREE VPN service |
+|⠀⠀ ⠀⌊📁 : Cake DeFi | Trusted crypto trading platform with ways to earn crypto |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/cake-defi) or [Referral Link 2](https://link-target.net/566060/cake-defi) | |
+|⠀⠀ ⠀⌊📁 : Coinbase | Trusted crypto trading platform with ways to earn crypto |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/coinbase) or [Referral Link 2](https://direct-link.net/566060/coinbase) | |
+|⠀⠀ ⠀⌊📁 : FaucetPay | Earn crypto from faucets, simple surveys, paid to click tasks & more |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link](https://faucetpay.io/?r=4481668) | |
+|⠀⠀ ⠀⌊📁 : Honeygain | PC Software - Passive crypto earning program |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/honeygain) or [Referral Link 2](https://link-center.net/566060/honeygain) | |
+|⠀⠀ ⠀⌊📁 : Linkvertise | Get paid for the URLs that you share |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link](https://publisher.linkvertise.com/ac/566060) | |
+|⠀⠀ ⠀⌊📁 : NiceHash | Trusted crypto mining software |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/nicehash) or [Referral Link 2](https://link-target.net/566060/nicehash) | |
+|⠀⠀ ⠀⌊📁 : Slice | Web browser add-on - Passive crypto earning program |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/slice) or [Referral Link 2](https://link-target.net/566060/slice) | |
+|⠀⠀ ⠀⌊📁 : N!vq's Game Service | Buy Steam Game keys using TF2 keys or CS:GO keys or Steam gems or more |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/nivq-game-service) or [Referral Link 2](https://link-hub.net/566060/nivq-game-service) | |
+|⠀⠀ ⠀⌊📁 : Windscribe | Trustwrothy FREE VPN service |
+|⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/windscribe) or [Referral Link 2](https://link-hub.net/566060/windscribe) | |
 </td></tr>
 </table>
 
