@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://github.com/Ki77y666">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&pause=10&color=4C00F7&center=true&multiline=true&width=1000&height=200&lines=Ki77y666;Yes+i'm+a+fluffball.+Deal+with+it.;=^_^=;-+KeyHub+co-owner;-+Developer+of+3+Discord+Bots;-+Admin+%2F+Moderator+of+multiple+Discord+Servers;+;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=4000&pause=10&color=4C00F7&center=true&multiline=true&width=600&height=100&lines=Ki77y666;Yes+I%27m+a+fluffball!+Deal+with+it!;+;" alt="Typing SVG" />
 </a>
-<br/>
 
+<br/>
 <a href="https://discord.gg/yG78Qp8wYJ">
     <img src="https://img.shields.io/badge/Discord-Ki77y666-purple?style=flat-square&logo=discord&logoColor=white">
 </a>  
@@ -28,27 +28,30 @@
 <a href="https://paypal.me/PayTheKi77y666/">
     <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=flat-square&logo=paypal&logoColor=white">
 </a>
-
 <br/> 
-
-<!-- <a href="https://github.com/Ki77y666">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ki77y666&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
 
 <a href="https://github.com/Ki77y666">
     <img src="https://github-stats-alpha.vercel.app/api?username=Ki77y666&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
 
-### 🛠️ Open-Source Projects
+### 🛠️ Projects
 <table>
-<tr><th> Bots </th></tr>
+<tr><th> Open-Source </th></tr>
 <tr><td>
 
-| Title | Stars | Technologies |
+| Project | Stars | Technologies |
 |--|--|--|
-| [Basic-Discord-Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JS](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript)|
-| [KeyHub-Site-v2.0](https://github.com/Ki77y666/KeyHub-Site-v2.0) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/KeyHub-Site-v2.0?style=flat-square&labelColor=black"/> | ![JS](https://img.shields.io/badge/JS-black?style=flat-square&logo=javascript)|
+| [Basic Discord Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
+
+</td></tr> </table>
+<table>
+<tr><th> Closed-Source </th></tr>
+<tr><td>
+
+| Project | Stars | Technologies |
+|--|--|--|
+| [KeyHub Site v2.0](https://github.com/Ki77y666/KeyHub-Site-v2.0) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/KeyHub-Site-v2.0?style=flat-square&labelColor=black"/> | ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
 
 </td></tr> </table>
 
@@ -63,7 +66,7 @@
 |⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/) | Promotional Steam key giveaway site |
 |⠀⠀ ⠀⌊📁 : [KeyHub v2.0](https://ki77y666.github.io/KeyHub-Site-v2.0/) | New site design for the relaunch |
 |⠀⠀⌊📂 : Bots | |
-|⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://top.gg/bot/988041477722603560) | A cute multi-server multi-function compatible Discord Bot |
+|⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://discord.com/application-directory/988041477722603560) | A cute multi-server multi-function compatible Discord Bot |
 |⠀⠀ ⠀⌊📁 : Fluffy Neko Bot#1138 | A private Discord Bot |
 |⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king) |  A custom programed Discord Bot for the DRɅCONIɅNS Discord Server |
 |⠀⠀⌊📂 : Discord Servers | |
