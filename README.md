@@ -77,8 +77,6 @@
 |⠀⠀ ⠀⌊📁 : [Astralverse](https://discord.gg/NXNfAdYjS3) | NFT community |
 |⠀⠀ ⠀⌊📁 : [Ancient Dragon Club](https://discord.gg/2d5CBAqJtj) | NFT community |
 |⠀⠀ ⠀⌊📁 : [DRɅCONIɅNS](https://discord.gg/ySxE3gQxWe) | NFT community - Home of Hand Of The King#1856 |
-|⠀⠀ ⠀⌊📁 : [InBread Catz](https://discord.gg/HGsDJK5WCR) | NFT community |
-|⠀⠀ ⠀⌊📁 : [Billionaire Ducks Club](https://discord.gg/RDJctDpbzp) | NFT community |
 |⠀⠀⌊📂 : Recommended Services | |
 |⠀⠀ ⠀⌊📁 : Cake DeFi | Trusted crypto trading platform with ways to earn crypto |
 |⠀⠀ ⠀⠀⠀⌊📁 : [Referral Link 1](http://lyksoomu.com/27088791/cake-defi) or [Referral Link 2](https://link-target.net/566060/cake-defi) | |
