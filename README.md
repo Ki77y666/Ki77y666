@@ -45,15 +45,6 @@
 | [Basic Discord Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
 
 </td></tr> </table>
-<table>
-<tr><th> Closed-Source </th></tr>
-<tr><td>
-
-| Project | Stars | Technologies |
-|--|--|--|
-| [KeyHub Site v2.0](https://github.com/Ki77y666/KeyHub-Site-v2.0) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/KeyHub-Site-v2.0?style=flat-square&labelColor=black"/> | ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
-
-</td></tr> </table>
 
 <table>
 <tr><th> Links </th></tr>
@@ -62,15 +53,11 @@
 | explore.exe          ⎯⠀❐⠀⤬ | description.exe          ⎯⠀❐⠀⤬ |
 | -- | -- |
 |⌊📂 : Desktop | |
-|⠀ ⌊📂 : Website | |
-|⠀⠀ ⠀⌊📁 : [KeyHub](https://key-hub.eu/) | Promotional Steam key giveaway site |
-|⠀⠀ ⠀⌊📁 : [KeyHub v2.0](https://ki77y666.github.io/KeyHub-Site-v2.0/) | New site design for the relaunch |
 |⠀⠀⌊📂 : Discord Bots | |
 |⠀⠀ ⠀⌊📁 : [Meow Bot#5074](https://discord.com/application-directory/988041477722603560) | A cute multi-server multi-function compatible Discord Bot |
 |⠀⠀ ⠀⌊📁 : Fluffy Neko Bot#1138 | A private Discord Bot |
-|⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king) |  A custom programed Discord Bot for the DRɅCONIɅNS Discord Server |
+|⠀⠀ ⠀⌊📁 : [Hand Of The King#1856](https://discordbotlist.com/bots/hand-of-the-king) |  A custom programmed Discord Bot for the DRɅCONIɅNS Discord Server |
 |⠀⠀⌊📂 : Discord Servers | |
-|⠀⠀ ⠀⌊📁 : [KeyHub](https://discord.gg/yG78Qp8wYJ) | Gaming community |
 |⠀⠀ ⠀⌊📁 : [Fluffy Test Labs](https://discord.gg/92mEjAk7ZE) | Discord Bot support server |
 |⠀⠀ ⠀⌊📁 : Bot Testing & Development | Private Server |
 |⠀⠀ ⠀⌊📁 : [ₓⅹ WONKY Community ⅹₓ](https://discord.gg/hWj8atq8jH) | NFT community |
