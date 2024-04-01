@@ -19,14 +19,26 @@
 <a href="https://www.reddit.com/user/Ki77y666">
     <img src="https://img.shields.io/badge/Reddit-Ki77y666-purple?style=plastic&logo=reddit&logoColor=white">
 </a>
-<a href="mailto:chris@key-hub.eu">
+<a href="mailto:nosman666@live.co.uk">
     <img src="https://img.shields.io/badge/-Email-blue?style=plastic&logo=gmail&logoColor=white">
 </a>
 <a href="http://live.xbox.com/Profile?Gamertag=Ki77y666">
     <img src="https://img.shields.io/badge/Xbox-Ki77y666-purple?style=plastic&logo=xbox&logoColor=white">
 </a>
+<a href="https://www.youtube.com/@Ki77y666">
+    <img src="https://img.shields.io/badge/YouTube-Ki77y666-blue?style=plastic&logo=youtube&logoColor=white">
+</a>
+<a href="https://www.twitch.tv/ki77y666">
+    <img src="https://img.shields.io/badge/Twitch-Ki77y666-purple?style=plastic&logo=twitch&logoColor=white">
+</a>
+<a href="https://opensea.io/Ki77y6666">
+    <img src="https://img.shields.io/badge/OpenSea-Ki77y666-blue?style=plastic&logo=opensea&logoColor=white">
+</a>
+<a href="https://etherscan.io/address/0x8ad96b058a69f9e9e1c0acc7fb01ea3984212c7b">
+    <img src="https://img.shields.io/badge/Etherscan-0x8ad96b058a69f9e9e1c0acc7fb01ea3984212c7b-purple?style=plastic&logo=ethereum&logoColor=white">
+</a>
 <a href="https://paypal.me/PayTheKi77y666/">
-    <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
+    <img src="https://img.shields.io/badge/Etherscan-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
 </a>
 <br/> 
 
