@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Etherscan-0x8ad96b058a69f9e9e1c0acc7fb01ea3984212c7b-purple?style=plastic&logo=ethereum&logoColor=white">
 </a>
 <a href="https://paypal.me/PayTheKi77y666/">
-    <img src="https://img.shields.io/badge/Etherscan-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
+    <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
 </a>
 <br/> 
 
