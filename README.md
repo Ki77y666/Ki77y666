@@ -43,6 +43,8 @@
 | Project | Stars | Technologies |
 |--|--|--|
 | [Basic Discord Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
+| [Waifucord theme](https://github.com/Ki77y666/Waifucord-theme) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Waifucord-theme?style=flat-square&labelColor=black"/> | ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=csswizardry)|
+| [Steam Game Store Page Video Download Enabler](https://github.com/Ki77y666/Steam-Game-Store-Page-Video-Download-Enabler) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Steam-Game-Store-Page-Video-Download-Enabler?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
 
 </td></tr> </table>
 
