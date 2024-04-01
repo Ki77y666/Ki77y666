@@ -5,28 +5,28 @@
 
 <br/>
 <a href="https://discord.gg/yG78Qp8wYJ">
-    <img src="https://img.shields.io/badge/Discord-Ki77y666-purple?style=flat-square&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-Ki77y666-purple?style=plastic&logo=discord&logoColor=white">
 </a>  
 <a href="https://steamcommunity.com/id/Ki77y666/">
-    <img src="https://img.shields.io/badge/Steam-Ki77y666-blue?style=flat-square&logo=steam&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-Ki77y666-blue?style=plastic&logo=steam&logoColor=white">
 </a>  
 <a href="https://twitter.com/Ki77y666">
-    <img src="https://img.shields.io/badge/Twitter-Ki77y666-purple?style=flat-square&logo=Twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-Ki77y666-purple?style=plastic&logo=Twitter&logoColor=white">
 </a>
 <a href="https://www.facebook.com/Ki77y666/">
-    <img src="https://img.shields.io/badge/Facebook-Ki77y666-blue?style=flat-square&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-Ki77y666-blue?style=plastic&logo=facebook&logoColor=white">
 </a>
 <a href="https://www.reddit.com/user/Ki77y666">
-    <img src="https://img.shields.io/badge/Reddit-Ki77y666-purple?style=flat-square&logo=reddit&logoColor=white">
+    <img src="https://img.shields.io/badge/Reddit-Ki77y666-purple?style=plastic&logo=reddit&logoColor=white">
 </a>
 <a href="mailto:chris@key-hub.eu">
-    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-blue?style=plastic&logo=gmail&logoColor=white">
 </a>
 <a href="http://live.xbox.com/Profile?Gamertag=Ki77y666">
-    <img src="https://img.shields.io/badge/Xbox-Ki77y666-purple?style=flat-square&logo=xbox&logoColor=white">
+    <img src="https://img.shields.io/badge/Xbox-Ki77y666-purple?style=plastic&logo=xbox&logoColor=white">
 </a>
 <a href="https://paypal.me/PayTheKi77y666/">
-    <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=flat-square&logo=paypal&logoColor=white">
+    <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
 </a>
 <br/> 
 
@@ -42,9 +42,9 @@
 
 | Project | Stars | Technologies |
 |--|--|--|
-| [Basic Discord Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
-| [Waifucord theme](https://github.com/Ki77y666/Waifucord-theme) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Waifucord-theme?style=flat-square&labelColor=black"/> | ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=csswizardry)|
-| [Steam Game Store Page Video Download Enabler](https://github.com/Ki77y666/Steam-Game-Store-Page-Video-Download-Enabler) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Steam-Game-Store-Page-Video-Download-Enabler?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)|
+| [Basic Discord Bot](https://github.com/Ki77y666/Basic-Discord-Bot) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Basic-Discord-Bot?style=plastic&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript)|
+| [Waifucord theme](https://github.com/Ki77y666/Waifucord-theme) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Waifucord-theme?style=plastic&labelColor=black"/> | ![CSS](https://img.shields.io/badge/CSS-black?style=plastic&logo=csswizardry)|
+| [Steam Game Store Page Video Download Enabler](https://github.com/Ki77y666/Steam-Game-Store-Page-Video-Download-Enabler) | <img alt="Stars" src="https://img.shields.io/github/stars/Ki77y666/Steam-Game-Store-Page-Video-Download-Enabler?style=plastic&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript)|
 
 </td></tr> </table>
 
