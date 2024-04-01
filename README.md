@@ -40,6 +40,9 @@
 <a href="https://paypal.me/PayTheKi77y666/">
     <img src="https://img.shields.io/badge/PayPal-Ki77y666-blue?style=plastic&logo=paypal&logoColor=white">
 </a>
+<a href="https://streamlabs.com/ki77y666/tip">
+    <img src="https://img.shields.io/badge/Streamlabs-Ki77y666-purple?style=plastic&logo=streamlabs&logoColor=white">
+</a>
 <br/> 
 
 <a href="https://github.com/Ki77y666">
