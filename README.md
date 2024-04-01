@@ -4,7 +4,7 @@
 </a>
 
 <br/>
-<a href="https://discord.gg/yG78Qp8wYJ">
+<a href="https://discordapp.com/users/344340142431141890">
     <img src="https://img.shields.io/badge/Discord-Ki77y666-purple?style=plastic&logo=discord&logoColor=white">
 </a>  
 <a href="https://steamcommunity.com/id/Ki77y666/">
