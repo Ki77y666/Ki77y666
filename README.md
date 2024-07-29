@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Steam-Ki77y666-blue?style=plastic&logo=steam&logoColor=white">
 </a>  
 <a href="https://twitter.com/Ki77y666">
-    <img src="https://img.shields.io/badge/Twitter-Ki77y666-purple?style=plastic&logo=Twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/X%20%28Twitter%29-Ki77y666-purple?style=plastic&logo=x&logoColor=white">
 </a>
 <a href="https://www.facebook.com/Ki77y666/">
     <img src="https://img.shields.io/badge/Facebook-Ki77y666-blue?style=plastic&logo=facebook&logoColor=white">
