@@ -22,7 +22,7 @@
 <a href="mailto:nosman666@live.co.uk">
     <img src="https://img.shields.io/badge/-Email-blue?style=plastic&logo=gmail&logoColor=white">
 </a>
-<a href="http://live.xbox.com/Profile?Gamertag=Ki77y666">
+<a href="https://www.xbox.com/en-US/play/user/Ki77y666">
     <img src="https://img.shields.io/badge/Xbox-Ki77y666-purple?style=plastic&logo=xbox&logoColor=white">
 </a>
 <a href="https://www.youtube.com/@Ki77y666">
